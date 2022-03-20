@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology
 - 📫 How to reach me :
   WhatsAPP: +201149783038
-  FB/SilverPirate.X
+  FB/SilverPirateX
 
 <!---
 SilverPirateX/SilverPirateX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
